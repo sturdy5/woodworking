@@ -34,9 +34,7 @@ Calculations:
 
     ![tongue and groove cut dimensions](tongue-and-groove-cut.png)
 
-    At a total height of 26.27", we will need 8 rows of tongue and groove
-
-    Each row will cut off 3.264"
+    At a total height of 26.27", we will need 8 rows of tongue and groove, each row will cut off 3.264"
 
     * Row 1 - 24.5"
     * Row 2 - 21.236"
@@ -46,3 +44,17 @@ Calculations:
     * Row 6 - 8.18"
     * Row 7 - 4.916"
     * Row 8 - 1.652"
+
+    Total Length: 104.608"
+
+    ![tongue and groove cut dimensions for 6 inch board](tongue-and-groove-cut-6in.png)
+
+    If using 6" tongue and groove - we will need 5 rows of tongue and groove, each row will cut off 5.129"
+
+    * Row 1 - 24.5"
+    * Row 2 - 19.371"
+    * Row 3 - 14.241"
+    * Row 4 - 9.112"
+    * Row 5 - 3.982"
+
+    Total Length: 71.206"
